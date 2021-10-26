@@ -1,0 +1,11 @@
+.table-striped>tbody>tr:nth-child(2n+1)>td, .table-striped>tbody>tr:nth-child(2n+1)>th {
+    background-color: rgb(223, 225, 255);
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+    background-color: rgb(200, 203, 253);
+}
+
+.table td{
+    border-top:1px solid rgb(219, 218, 233);
+}
